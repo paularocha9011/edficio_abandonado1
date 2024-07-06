@@ -1,0 +1,11 @@
+Model Information:
+* title:	Abandoned building
+* source:	https://sketchfab.com/3d-models/abandoned-building-1aa481727ca54c59834a4f311b43e0cd
+* author:	Federico Paredes (https://sketchfab.com/EmilioPa)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Abandoned building" (https://sketchfab.com/3d-models/abandoned-building-1aa481727ca54c59834a4f311b43e0cd) by Federico Paredes (https://sketchfab.com/EmilioPa) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
